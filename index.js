@@ -1,12 +1,12 @@
 // Write your solution here!
-var append = ["Milo", "Otis", "Garfield", "Odie"]
+var append = ["Milo", "Otis", "Garfield", "Odie"];
 
-const prepend = ["Odie", "Milo", "Otis", "Garfield"]
+const prepend = ["Odie", "Milo", "Otis", "Garfield"];
 
-var removeLast = prepend
+var removeLast = prepend;
 
-removeLast.pop()
+removeLast.pop();
 
-var removeFirst = prepend
+var removeFirst = prepend;
 
-removeFirst.shift()
+removeFirst.shift();
