@@ -1,5 +1,5 @@
 // Write your solution here!
-const pet = ["Milo", "Otis", "Garfield"];
+
 
 const append = ["Milo", "Otis", "Garfield"];
 
