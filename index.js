@@ -3,7 +3,7 @@ const  append = ["Milo", "Otis", "Garfield", "Odie"];
 
 const  prepend = ["Odie", "Milo", "Otis", "Garfield"];
 
-const  removeLast = prepend;
+const  removeLast = ["Odie", "Milo", "Otis", "Garfield"];
 
 removeLast.pop();
 
