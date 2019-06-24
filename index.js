@@ -6,3 +6,5 @@ const append = pet.push("Odie")
 const prepend = pet.unshift("Odie")
 
 const removeLast = pet.pop()
+
+const removeFirst = pet.shift()
