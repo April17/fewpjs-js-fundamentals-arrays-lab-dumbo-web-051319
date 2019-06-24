@@ -5,7 +5,7 @@ const prepend = ["Odie", "Milo", "Otis", "Garfield"];
 
 var removeLast = prepend;
 
-// removeLast.pop();
+removeLast.pop();
 
 var removeFirst = prepend;
 
