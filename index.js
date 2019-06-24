@@ -9,7 +9,7 @@ removeLast.pop();
 
 removeLast;
 
-const  removeFirst = prepend;
+const  removeFirst = ["Odie", "Milo", "Otis", "Garfield"];
 
 removeFirst.shift();
 
