@@ -1,2 +1,2 @@
 // Write your solution here!
-var append = ["Odie", "Milo", "Otis", "Garfield"]
+var append = ["Milo", "Otis", "Garfield", "Odie"]
