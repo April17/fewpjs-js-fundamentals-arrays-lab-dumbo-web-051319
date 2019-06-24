@@ -2,3 +2,5 @@
 var append = ["Milo", "Otis", "Garfield", "Odie"]
 
 var prepend = ["Odie", "Milo", "Otis", "Garfield"]
+
+var removeLast = prepend.pop()
