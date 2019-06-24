@@ -9,6 +9,8 @@ const prepend = pet;
 
 prepend.unshift("Odie");
 
-const removeLast = pet.pop();
+const removeLast = pet;
+
+removeLast.pop();
 
 const removeFirst = pet.shift();
