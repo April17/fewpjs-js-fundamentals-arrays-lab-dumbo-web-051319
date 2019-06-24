@@ -11,4 +11,4 @@ removeLast;
 
 const  removeFirst = prepend;
 
-// removeFirst.shift();
+removeFirst.shift();
