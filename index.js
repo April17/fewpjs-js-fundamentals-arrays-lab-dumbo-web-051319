@@ -7,4 +7,6 @@ var removeLast = prepend
 
 removeLast.pop()
 
-var removeFirst = prepend.shift()
+var removeFirst = prepend
+
+removeFirst.shift()
