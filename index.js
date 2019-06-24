@@ -13,4 +13,6 @@ const removeLast = pet;
 
 removeLast.pop();
 
-const removeFirst = pet.shift();
+const removeFirst = pet;
+
+removeFirst.shift();
