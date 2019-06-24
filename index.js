@@ -5,4 +5,4 @@ const prepend = ["Odie", "Milo", "Otis", "Garfield"]
 
 var removeLast = prepend.pop()
 
-var removeFirst = prepend.unshift()
+var removeFirst = prepend.shift()
